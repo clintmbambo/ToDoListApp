@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|solutionrelative:controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55F18E2-EEAC-44B5-8630-E6B31D81122C}|ToDoApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoApp\\GlobalUsings.cs",
+              "RelativeToolTip": "GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:30:02.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:29:39.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoApp\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoApp\\Models\\ToDo.cs",
+              "RelativeToolTip": "Models\\ToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:32:16.049Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoApp\\Controllers\\ToDosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDosController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoApp\\Controllers\\ToDosController.cs",
+              "RelativeToolTip": "Controllers\\ToDosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:50:21.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
