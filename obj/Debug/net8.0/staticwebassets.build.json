@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xw0fjQrfY2VB+5NI3wWHFOTIJFs/89ocWH2k5NbmRvA=",
+  "Hash": "MnyPMrJXrhNVvGKoh6janz0A+C2sKMCL06zfdQRL11I=",
   "Source": "ToDoApp",
   "BasePath": "_content/ToDoApp",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ToDoApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\ToDoApp\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "ToDoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\ToDoApp\\wwwroot\\",
+      "BasePath": "_content/ToDoApp",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
       "Identity": "C:\\Users\\USER\\source\\repos\\ToDoApp\\wwwroot\\css\\site.css",

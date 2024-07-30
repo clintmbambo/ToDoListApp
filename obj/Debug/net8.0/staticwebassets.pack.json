@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ToDoApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\USER\\source\\repos\\ToDoApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "C:\\Users\\USER\\source\\repos\\ToDoApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
